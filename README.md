@@ -30,7 +30,7 @@ Bobby is an HR analyst at Pewlett Hackard who performs employee research. Pewlet
 
 1.) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-Shown below is a table of the total employees of 240,124 at Pewlett Hackard an additional query that I ran, there are 72,458 potential employees that are eligibile to retirement which is about 30% of the entire workforce. There will be potentially 72,458 new job that will need to be filled. 
+Shown below is a table of the total employees of 240,124 at Pewlett Hackard based on an additional query ran, there are 72,458 potential employees that are eligibile to retirement which is about 30% of the entire workforce. There will be potentially 72,458 new job that will need to be filled. 
 
 ![image](https://user-images.githubusercontent.com/93900628/149710587-b2a36e82-626f-4942-a058-90a5d1fa3a8d.png)
 ![image](https://user-images.githubusercontent.com/93900628/149711771-28dc9dcb-faa5-44f3-bb3a-7256fe4bc242.png)
@@ -38,8 +38,7 @@ Shown below is a table of the total employees of 240,124 at Pewlett Hackard an a
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-There are 1,549 mentors to to mentor the next generation of Pewlett Hackard employees being hired then that is based on new jobs that will be created soon. See table below for the titles of the eligible mentors based on an additional query run. Based on the first table below there will not be any mentors in the manager title to mentor the 2 new potential hires. The ratio for mentor to mentee is 1:46, which could be overwhelming for a mentor, expanding the birth date query ran from 1964 and 1963 would widen the pool of mentors and would be a comparitively smaller ratio of mentors to mentee making it less overwhelming for the mentor.
-
+There are 1,549 mentors to to mentor the next generation of Pewlett Hackard employees being hired then that is based on new jobs that will be created soon. See table below for the titles of the eligible mentors based on an additional query run. Based on the first table below there will not be any mentors in the manager title to mentor the 2 new potential hires. 
 
 ![image](https://user-images.githubusercontent.com/93900628/149711843-ab14d6e3-6100-4844-8ae7-776d18be22d2.png)
 
