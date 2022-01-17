@@ -31,15 +31,19 @@ Bobby is an HR analyst at Pewlett Hackard who performs employee research. Pewlet
 
 1.) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-Shown below is a table of the total employees of 240,124 at Pewlett Hackard, there are 72,458 potential employees that are eligibile to retirement which is about 30% of the entire workforce. There will be potentially 72,458 new job that will need to be filled.
+Shown below is a table of the total employees of 240,124 at Pewlett Hackard, there are 72,458 potential employees that are eligibile to retirement which is about 30% of the entire workforce. There will be potentially 72,458 new job that will need to be filled. 
 
 ![image](https://user-images.githubusercontent.com/93900628/149710587-b2a36e82-626f-4942-a058-90a5d1fa3a8d.png)
+![image](https://user-images.githubusercontent.com/93900628/149711771-28dc9dcb-faa5-44f3-bb3a-7256fe4bc242.png)
+
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 There are 1,549 mentors to to mentor the next generation of Pewlett Hackard employees being hired then that is based on new jobs that will be created soon. See table below for the titles of the eligible mentors.
 
 ![image](https://user-images.githubusercontent.com/93900628/149711553-297f2811-05b6-438d-bff3-7a7b5c63f5f4.png)
+![image](https://user-images.githubusercontent.com/93900628/149711843-ab14d6e3-6100-4844-8ae7-776d18be22d2.png)
+
 
 
 Based on the table below there will not be any mentors in the manager title to mentor the 2 new potential hires.
