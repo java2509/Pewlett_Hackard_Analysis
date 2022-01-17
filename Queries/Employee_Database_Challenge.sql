@@ -40,11 +40,43 @@ SELECT * FROM retiring_titles
 SELECT DISTINCT ON (emp.emp_no) emp.emp_no, emp.first_name, emp.last_name, emp.birth_date, depemp.from_date, depemp.to_date, t.title 
 INTO mentorship_eligibility
 FROM employees as emp
-LEFT JOIN dept_emp as depemp
+INNER JOIN dept_emp as depemp
 ON (emp.emp_no = depemp.emp_no)
-LEFT JOIN titles as t
+INNER JOIN titles as t
 ON (emp.emp_no=t.emp_no)
 WHERE(emp.birth_date BETWEEN '1965-01-01' AND '1965-12-31') AND (depemp.to_date = '9999-01-01')
 ORDER BY emp_no
 
 SELECT * FROM mentorship_eligibility
+
+SELECT COUNT(emp_no), title
+INTO mentorship_eligibility_title
+FROM mentorship_eligibility
+GROUP BY title
+ORDER BY count DESC;
+
+SELECT * FROM mentorship_eligibility_title
+
+-- Total number of employees in company that are not retiring
+SELECT DISTINCT ON (emp.emp_no) emp.emp_no,
+	emp.first_name, 
+	emp.last_name, 
+	t.title,
+	t.from_date,
+	t.to_date
+	
+INTO total_working_emp
+FROM employees as emp
+INNER JOIN titles as t
+ON emp.emp_no = t.emp_no
+WHERE(to_date = '9999-01-01')
+ORDER BY emp_no, to_date DESC;
+SELECT * FROM total_working_emp
+
+SELECT COUNT (title), title
+INTO total_working_emp_title
+FROM total_working_emp
+GROUP BY title
+ORDER BY count DESC;
+
+SELECT * FROM total_working_emp_title
