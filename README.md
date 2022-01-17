@@ -39,14 +39,14 @@ Shown below is a table of the total employees of 240,124 at Pewlett Hackard, the
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-There are 1,549 mentors to to mentor the next generation of Pewlett Hackard employees being hired then that is based on new jobs that will be created soon. See table below for the titles of the eligible mentors.
+There are 1,549 mentors to to mentor the next generation of Pewlett Hackard employees being hired then that is based on new jobs that will be created soon. See table below for the titles of the eligible mentors. Based on the first table below there will not be any mentors in the manager title to mentor the 2 new potential hires.
+
+
 
 ![image](https://user-images.githubusercontent.com/93900628/149711553-297f2811-05b6-438d-bff3-7a7b5c63f5f4.png)
 ![image](https://user-images.githubusercontent.com/93900628/149711843-ab14d6e3-6100-4844-8ae7-776d18be22d2.png)
 
 
-
-Based on the table below there will not be any mentors in the manager title to mentor the 2 new potential hires.
 
 
 
