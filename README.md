@@ -34,6 +34,7 @@ Bobby is an HR analyst at Pewlett Hackard who performs employee research. Pewlet
 The total employees at Pewlett Hackard is 240,124, there are 72,458 potential employees that are eligibile to retirement which is about 30% of the entire workforce.
 That means there will need to be 72,458 jobs that weill need to be filled
 
+![image](https://user-images.githubusercontent.com/93900628/149710587-b2a36e82-626f-4942-a058-90a5d1fa3a8d.png)
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
