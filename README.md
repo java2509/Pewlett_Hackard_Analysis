@@ -14,12 +14,12 @@ Bobby is an HR analyst at Pewlett Hackard who performs employee research. Pewlet
 ![image](https://user-images.githubusercontent.com/93900628/149709979-d9e8d97c-ee36-4f93-8417-79c1600a32b2.png)
 - There are 72,458 employees that are eligible to retire.
 
-- Senior Engineer and Senior Staff make up 50,845 which is approx. 70% of total retiring employees.
+- Senior Engineer and Senior Staff make up 50,845 which is approx. 70% of total retiring employees
 
 
 ![image](https://user-images.githubusercontent.com/93900628/149710049-90d6bda2-18fe-47c7-86dc-6e1a5d48e625.png)
 
-- Senior Engineer and Senior Staff make up 50,845 which is approx. 70% of total retiring employees.
+
 
 - There are 1,549 eligibile employees for the mentorship program.
 
